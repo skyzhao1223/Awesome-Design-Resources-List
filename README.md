@@ -80,6 +80,7 @@ Links marked with 🤖 are AI resources.
 - [Fountn](https://fountn.design/) - a collection of design resources, curated by designers
 - [The Product Design Resources Library](https://www.adhamdannaway.com/design-resources) - a huge collection of design resources for UX and product designers by Adham Dannaway
 - [Toolfolio](https://toolfolio.io/) -  helps you find the best tools for productivity, creativity, and design
+- [Free for Creators](https://skyzhao1223.github.io/free-for-creators/) - license-verified collection of 158 free creator assets (photos, icons, fonts, mockups, footage, 3D), each tagged with license, attribution and monetization rules
 
 ## 📐 UI Kits & Component Libraries
 
